@@ -1,0 +1,15 @@
+@import
+url('http://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+.container {background: white; border: 1px solid #2a2525; width: 100%; max-width: 500px; margin: 0 auto; border-radius: 30px; padding: 40px; }
+.header { color: #933542;}
+h2 {color: white;}
+h3 {color: skyblue;}
+.footer {font-size: 14px;}
+.menu-box {display: none; background: white; border: 1px solid #2a2525; width: 200px; padding: 10px;}
+.menu-box a {display: block; padding: 8px; text-decoration: none; color: #2a2525;}
+.menu-box a:hover {background: #ffdde1;}
+body {display: flex; justify-content: center; align-items: center; background-image: url(images/bg.jpg); background-size: cover; background-position: center;background-repeat: no-repeat; font-family: 'Montserrat', sans-serif; color: #2a2525; text-align: center;}
+img {display: block;margin: 0 auto; width: 250px; border: 1px solid #ffdde1; border-radius: 30px;}
+html, body { height:100%; margin:0; }
+.but { background: lightpink; width: 100%; max-width: 300px; margin: 0 auto; border-radius: 12px; padding: 15px; display: inline-block; text-decoration: none; transition: 0.3s; font-size: 20px; font-weight: bold; border: 1px solid white; color: #933542;}
+.but:hover {background-color: lightyellow; transform: scale(1.1);}
