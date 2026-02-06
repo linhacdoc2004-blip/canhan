@@ -15,5 +15,6 @@ h4{color: darkgreen; font-size: 55px;}
 .left, .right {width: 50%;}
 img {width: 80%; border-radius: 12px;}
 .right {padding: 30px;}
-a {text-decoration: none;}
+a {text-decoration: none; color: brown;}
 .im{width: 25%; border: 2px solid white; display: flex;}
+
