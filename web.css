@@ -15,4 +15,5 @@ h4{color: darkgreen; font-size: 55px;}
 .left, .right {width: 50%;}
 img {width: 80%; border-radius: 12px;}
 .right {padding: 30px;}
-.im{width: 25%; border: 2px solid white; display: flex; padding-left: 200px;}
+a {text-decoration: none;}
+.im{width: 25%; border: 2px solid white; display: flex;}
